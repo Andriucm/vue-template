@@ -1,4 +1,4 @@
-# conquer-vue — Plantilla personal para Vue 3
+# Plantilla personal para Vue 3
 
 Esta es mi plantilla personal para iniciar nuevos proyectos con **Vue 3** y **Vite**. Incluye configuración lista para usar con TypeScript, ESLint, y las herramientas recomendadas para un desarrollo ágil y ordenado.
 
