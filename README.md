@@ -1,6 +1,8 @@
-# conquer-vue
+# conquer-vue — Plantilla personal para Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+Esta es mi plantilla personal para iniciar nuevos proyectos con **Vue 3** y **Vite**. Incluye configuración lista para usar con TypeScript, ESLint, y las herramientas recomendadas para un desarrollo ágil y ordenado.
+
+---
 
 ## Recommended IDE Setup
 
@@ -27,22 +29,3 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 bun install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-bun dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-bun run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-bun lint
-```
